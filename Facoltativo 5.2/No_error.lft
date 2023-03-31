@@ -1,0 +1,14 @@
+//Non è errore inserire commenti sporadici
+read(x);
+while (> x 0) {
+	assign - x 1 to x;
+	print(x)
+}
+/*
+Non dà errore perchè non termina col punto e virgola
+122
+122
+122
+122
+122
+*/

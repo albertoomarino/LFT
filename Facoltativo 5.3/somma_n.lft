@@ -1,0 +1,19 @@
+/*calcolo la somma di 10 numeri inseriti da tastiera*/
+
+assign 10 to n;
+assign 0 to res;
+
+while(> n 0) {
+	read(x);
+	assign +(x,res) to res;
+	assign - n 1 to n
+};
+
+//se la somma è minore di 50 moltiplico per 2, altrimenti divido per 2
+
+if(< res 50) assign *(res,2) to res 
+else assign / res 2 to res end;
+
+//stampo il risultato
+
+print(res)
