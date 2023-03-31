@@ -1,0 +1,27 @@
+/* Metodo che calcola la posizione s di un corpo 
+   che viaggia a velocità v utilizzando la
+   legge oraria del moto rettilineo uniforme
+*/
+
+int posizione (void) {
+
+	int s0;
+	assign 2 to s0; //il corpo all'istante t0 si trova a s0 = 2m dall'origine
+
+	//calcolare la posizione del corpo dopo 5 secondi di moto
+
+	int t;
+	assign 5 to t;	//t = 5 s
+
+	int v;
+	assign 7 to v;	//velocita' = 7 m/s
+
+	int p;
+	/*calcolo p*/     assign (s0 + v*t) to p;
+	
+	/*
+	p = 2m + (7m/s)*(5s) = 37m
+	*/
+
+	return p;
+}

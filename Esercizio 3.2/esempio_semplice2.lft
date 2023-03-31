@@ -1,0 +1,18 @@
+/* Metodo che calcola la posizione s di un corpo 
+   che viaggia a velocità v utilizzando la
+   legge oraria del moto rettilineo uniforme
+*/
+
+	//leggo da input s0 e t
+
+	read(s0);
+
+	read(t);
+
+	assign 7 to v;	//velocita' = 7 m/s
+
+	/*calcolo p*/     assign +(s0,*(v,t)) to p;
+	
+	print(p)
+
+//fine

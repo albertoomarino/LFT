@@ -1,0 +1,12 @@
+assign +(5,7) to x,y,z,t;
+while(< z x){
+	print(+(z,5),x,*(3,y),- t 1)
+};
+print(z);
+read(p,q,r);
+if(== p r){
+	print(p)
+}else{
+	print(r)
+}end;
+print(/ p q)
