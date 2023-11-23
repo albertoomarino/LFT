@@ -1,0 +1,8 @@
+//Scrivo linee di codice lasciando un commento aperto
+begin 
+{
+assign 10 to x;
+/*
+assign 10 to y;
+end
+}

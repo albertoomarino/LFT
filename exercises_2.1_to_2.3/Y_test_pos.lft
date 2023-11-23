@@ -1,0 +1,16 @@
+int posizione (void) {
+
+	int s0;
+	assign 2 to s0;
+
+	int t;
+	assign 5 to t;
+
+	int v;
+	assign 7 to v;
+
+	int p;
+	assign (s0 + v*t) to p;
+
+	return p;
+}

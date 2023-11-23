@@ -1,9 +1,0 @@
-read(a,b,x);
-if(|| > x 0 == x 5) {
-	print(a,b);
-	while(&& < x 10 >= x 2) {
-		if(! == x 3) print(1)
-		else print(0) end
-	}
-}
-else print(x) end

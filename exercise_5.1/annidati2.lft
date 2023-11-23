@@ -1,0 +1,9 @@
+read(a,b,x);
+while (<= a b) {
+	if(< b a){
+		while (> x 0) {
+			assign - x 1 to x;
+			print(x)
+		}
+	}end
+}

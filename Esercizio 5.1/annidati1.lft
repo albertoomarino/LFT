@@ -1,8 +1,0 @@
-read(a,b,x);
-if (<= a b) {
-	while (> x 0) {
-		if (<= a b) {
-			print(a)
-		}end
-	}
-}end
