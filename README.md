@@ -13,8 +13,8 @@ The lab project consists of a series of assisted exercises aimed at developing a
 ## Files
 
 The files in the repository have been uploaded as follows:
-* **project_specifications.pdf**: pdf file showing the delivery of the project developed by the professors
-* **Exercise folders**: each folder contains the code that implements the exercises requested in the delivery (the optional exercises are present and have been implemented)
+* **project_specifications.pdf**: pdf file showing the delivery of the project developed by the professors;
+* **Exercise folders**: each folder contains the code that implements the exercises requested in the delivery (the optional exercises are present and have been implemented).
 
 ## License
 
