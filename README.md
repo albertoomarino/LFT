@@ -1,4 +1,4 @@
-# Formal languages and translators
+# Formal Languages and Translators
 
 ## Table of Contents
 
